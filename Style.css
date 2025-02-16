@@ -81,3 +81,9 @@ p{
     letter-spacing: 1px;
     color: #6FBF44;
 }
+.link-Learn-more:active{
+opacity: 0.4;
+}
+header:active{
+    opacity: 0.4;
+    }
